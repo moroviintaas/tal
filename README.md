@@ -10,9 +10,9 @@ Projekt na przedmiot techniki algorytmiczne. Na projekt składają się:
 7. Wyniki testów oraz sprawozdanie
 
 # Autorzy:
-Rafał Bogiel
+Rafał Bogiel<br />
 Robert Jarosz
 
 # Terminy:
-Poszczególne zadania należy rozliczyć do:
-_Wstawię jak będę znał terminy rozliczeń poszczególnych zadań_
+Poszczególne zadania należy rozliczyć do:<br />
+_Wstawię jak będę znał terminy rozliczeń poszczególnych zadań._
